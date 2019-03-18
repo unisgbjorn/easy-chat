@@ -1,0 +1,10 @@
+footer {
+    min-height: 100px;
+    background-color: #34495e;
+}
+
+footer p {
+    padding: 10px;
+    font-size: 14px;
+    color: white;
+}
